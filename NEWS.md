@@ -1,4 +1,4 @@
-# r.pkg.template 0.1.0.9191
+# coursera.cicd.lab2 0.1.0.9191
 
 ### New features
 

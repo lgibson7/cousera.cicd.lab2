@@ -1,14 +1,14 @@
 Type: Package
-Package: r.pkg.template
+Package: coursera.cicd.lab2
 Title: R Package Template
 Version: 0.1.0.9191
 Date: 2024-11-12
 Authors@R:
-    person("insightsengineering", , , "insightsengineering@example.com", role = c("aut", "cre"))
+    person("lgibson7", , , "lgibson7@example.com", role = c("aut", "cre"))
 Description: R package template with GitHub Actions workflows included.
 License: Apache License 2.0 | file LICENSE
-URL: https://github.com/insightsengineering/r.pkg.template/
-BugReports: https://github.com/insightsengineering/r.pkg.template/issues
+URL: https://github.com/lgibson7/coursera.cicd.lab2/
+BugReports: https://github.com/lgibson7/coursera.cicd.lab2/issues
 Depends:
     R (>= 3.6)
 Imports:

@@ -1,1 +1,1 @@
-r.pkg.template::shiny_app()
+coursera.cicd.lab2::shiny_app()
